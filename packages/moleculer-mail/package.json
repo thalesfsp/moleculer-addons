@@ -37,7 +37,7 @@
     "node-sass": "^4.12.0",
     "nodemon": "^1.19.4",
     "npm-check": "^5.9.0",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   },
   "jest": {
     "testEnvironment": "node",
